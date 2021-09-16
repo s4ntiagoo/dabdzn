@@ -30,7 +30,7 @@
 
 ##
  
- 👾 › Github **Status**:
+ 👾 » Github **Status**:
 
  <p align="left">
     <div align="center">
