@@ -40,3 +40,7 @@
         </a>
     </div>
 </p>
+
+<p align=center>
+  <img height="80px" src="https://discord.c99.nl/widget/theme-1/707721499116699688.png" />
+</p>
