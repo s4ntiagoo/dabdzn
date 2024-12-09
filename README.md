@@ -14,7 +14,7 @@
 
 <img align="right" src="https://cdn.discordapp.com/emojis/830814340616683520.png?size=96" />
 
-Me, I'm Dab, host of the **@Eru** app, an all-in-one bot. And I'm also passionate about programming!
+Me, I'm Santiago, host of the **@Eru** app, an all-in-one bot. And I'm also passionate about programming!
 
 ### :rocket: Some of My Projects
 
